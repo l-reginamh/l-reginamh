@@ -4,7 +4,7 @@ I'm Regina 👋😋<br>
 Developer based in Malaysia.
 </h2>
 
-- 📚 I’m currently learning Java Spring and Hibernate and also ReactJS
+- 📚 I’m currently learning Java Spring and also ReactJS
 
 
 ### Skills:
